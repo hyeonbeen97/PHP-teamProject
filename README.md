@@ -1,4 +1,7 @@
 # PHP-TeamProject
+![t01](https://github.com/hyeonbeen97/PHP-teamProject/assets/125417850/77c3ce91-92d7-4d81-9406-7d16d162f749)
+
+http://hblog.dothome.co.kr/php2/main/main.php
 ## 소개
 PHP 기반 웹 사이트는 플랜테리어를 설명해주는 사이트라고 할 수 있습니다. 이 사이트는 사용자에게 플랜테리어의 식물종류 및 관리방법을 제공합니다. 주요 기술 스택으로는 HTML, CSS, JavaScript, 그리고 GSAP와 Swiper.js 같은 라이브러리가 사용되었습니다.
 
@@ -23,3 +26,23 @@ PHP 기반 웹 사이트는 플랜테리어를 설명해주는 사이트라고 �
 
  -jQuery: JavaScript 라이브러리로, DOM 조작과 이벤트 처리를 간편하게 수행하는 데 사용됩니다.
 ## 상세페이지
+![t02](https://github.com/hyeonbeen97/PHP-teamProject/assets/125417850/2704d2af-21fc-4c6d-8abe-8a4533800aab)
+
+![t03](https://github.com/hyeonbeen97/PHP-teamProject/assets/125417850/d1a7cce7-d1b0-4d3f-aac8-26ee32f4da37)
+
+
+![t04](https://github.com/hyeonbeen97/PHP-teamProject/assets/125417850/e8c9f9d2-d22d-410b-8817-5bce47cc93eb)
+
+![t05](https://github.com/hyeonbeen97/PHP-teamProject/assets/125417850/d1919043-fbf2-4c26-a9ea-755a67a88197)
+
+![t09](https://github.com/hyeonbeen97/PHP-teamProject/assets/125417850/d0d828cb-db91-4924-8dc2-e17903022c0a)
+
+![t11](https://github.com/hyeonbeen97/PHP-teamProject/assets/125417850/22249ef1-1894-43dc-af52-0d7fc8faf965)
+
+
+
+
+
+
+
+
